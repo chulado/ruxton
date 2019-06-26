@@ -93,6 +93,15 @@ p {
 	margin-bottom:35px;
 	letter-spacing:-0.2px;
 }
+p.large {
+	font-size: 19px;
+	line-height: 26px; 
+}
+span.attention {
+	font-size: 19px;
+	color:#ffbe00;
+	font-weight: bold; 
+}
 p.bold {
     font-family: 'ubuntumedium', Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-size:18px;
@@ -127,6 +136,9 @@ p.bold {
 
 .txt-white {
     color: #fff;
+}
+.txt-blanco {
+	color:#f5f5f5;
 }
 .txt-black {
     color: #424242;
@@ -273,6 +285,11 @@ a.link{
 	padding: 12px 50px;
 	font-size:26px;
 }
+.btn-primary.cta {
+	padding: 12px 30px;
+	font-size:20px;
+	background-color: rgba(36, 204, 3, 0.86);
+}
 
 @media(max-width:768px) {
 	.btn-primary {
@@ -370,6 +387,9 @@ a.link{
 	height: 93px;
 	margin-top: -93px;
 	z-index: 1;
+}
+#hero {
+	background-color: #1399d3;
 }
 #header {
     background-image: url(../img/bg-header.jpg);
@@ -692,6 +712,9 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #0aa1a7;
+}
+.fa, .fab, .fal, .far, .fas {
+    margin-right: 3px;
 }
 
 

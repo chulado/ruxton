@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Ruxton Tower Github Test</title>
+    <title>Ruxton Towers</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -78,17 +78,19 @@
     </header>
 
   <main role="main">
-    <section id="header">
+    <section id="hero">
         <div class="container">
             <div class="col-lg-12 bajada">
-                <h1 class="txt-white">Hi-rise living<br>at it's best!</h1>
+                <h1 class="txt-white">Ruxton Towers</h1>
             </div>    
             <div class="col-lg-12 bajada">
-                <p class="txt-white">The best offer in Towson, MD</p>
+                <h4 class="txt-white">8415 Bellona Lane, Towson, MD 21204</h4>
+                <p class="large txt-blanco">1-3 Beds &middot; 1-2 Baths &middot; 700-1235 sq. ft.<br>
+                <span class="attention">12 units currently available</span></p>
+                <a href="#" class="btn-primary cta"><i class="fas fa-mobile-alt"></i> (443) 470-8571</a>
+                <a href="#" class="btn-primary cta"><i class="fas fa-poo"></i> Request Tour</a>
             </div>    
-            <div class="col-lg-12 text-right">
-                <a href="#" class="btn-primary">DISCOVER NOW</a>
-            </div>
+            
         </div>
     </section>    
 
@@ -96,9 +98,9 @@
     <section id="about">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12">
-                    <h2 class="txt-blue">Welcome Home to Ruxton Towers!</h2>
-                    <div class="line-blue"></div>
+                <div class="col-lg-12 text-left">
+<h2 class="txt-blue">Floor Plans</h2>
+             
                 </div>
                 <div class="col-md-2"></div>
                 <div class="col-md-8">
@@ -247,7 +249,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/iScroll/5.2.0/iscroll.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-
+  <script src="https://kit.fontawesome.com/15eafa2117.js"></script>
   <script src="dist/js/drawer.min.js" charset="utf-8"></script>
   <script>
     $(document).ready(function() {
