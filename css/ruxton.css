@@ -573,10 +573,13 @@ a.link{
 }
 @media(max-width:990px) {
 	#tour {
-		height:180px;
+		height:auto;
+		padding: 50px 0;
 		text-align:center;
 	}
 	#tour p{
+		font-size:35px;
+		text-align: center;
 		line-height:45px;
 		margin-bottom: 30px;
 	}
