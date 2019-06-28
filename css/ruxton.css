@@ -97,6 +97,11 @@ p.large {
 	font-size: 19px;
 	line-height: 26px; 
 }
+p.larger {
+	font-size: 22px;
+	line-height: 28px;
+	font-weight: bold; 
+}
 span.attention {
 	font-size: 19px;
 	color:#ffbe00;
@@ -715,6 +720,10 @@ body {
 }
 .fa, .fab, .fal, .far, .fas {
     margin-right: 3px;
+}
+.thumb {
+	max-width: 75px;
+	margin-top: -28px;
 }
 
 

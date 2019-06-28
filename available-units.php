@@ -95,59 +95,58 @@
     </section>    
 
     <!-- ABOUT-->
-    <section id="about">
+    <section>
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 text-left">
+<div class="col-lg-12">
 <h2 class="txt-blue">Floor Plans</h2>
-             
-                </div>
-                <div class="col-md-2"></div>
-                <div class="col-md-8">
-                    <p class="txt-black txt-big">Located in the historic <b>Ruxton neighborhood</b>, you indeed can have the best of both worlds! Nestled near green hills, abundant trees, stately homes, and quaint shops, yet so close to everywhere with quick access to the Baltimore Beltway. </p>
-                </div>
-                <div class="col-md-2"></div>
+
+<br>
+<p class="larger">1 Bedroom</p>
+<br><br>
+</div>
+
+<div class="col-md-2">
+<img class="thumb" src="img/1-bedroom.png" alt="1 bedroom apartment floorplan">
+</div> 
+
+<div class="col-md-2">
+<p class="large">Available: <br>7/15/19
+</p>
+</div> 
+
+<div class="col-md-2">
+<p class="large">1 bed / 1 bath
+</p>
+</div>
+
+<div class="col-md-2">
+<p class="large">700-1135 sq. ft.
+</p>
+</div> 
+
+<div class="col-md-2">
+<p class="large">$1,580
+</p>
+</div>
+
+<div class="col-md-2">
+<p class="large"><a href="">Schedule tour</a>
+</p>
+</div>  
+
+ 
+
+</div>               
             </div>
-            <div class="row">
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                    <img src="img/ico-location.svg" class="ico-about">
-                    <h4 class="txt-blue">Find our<br>location</h4>
-                    <p class="txt-small">See below for times and distances for area destinations.</p>
-                    <a href="#" class="link">view more</a>
-                </div>
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                    <img src="img/ico-plans.svg" class="ico-about">
-                    <h4 class="txt-blue">View the<br>floor plans</h4>
-                    <p class="txt-small">Our spacious apartments allow you more flexibility</p>
-                    <a href="#" class="link">view more</a>
-                </div>
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                    <img src="img/ico-calendar.svg" class="ico-about">
-                    <h4 class="txt-blue">Schedule<br>your tour</h4>
-                    <p class="txt-small">Contact our leasing agent for more information</p>
-                    <a href="#" class="link">view more</a>
-                </div>
+            
+                
             </div>
-        </div>
+        
     </section>    
 
 
-    <!-- APARTMENTS-->
-    <section id="apartments">
-        <div>
-            <img src="img/img-apartments.jpg">
-        </div>        
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-                    <h3 class="txt-blue">Apartments</h3>
-                    <p class="txt-black">Our large, newly remodeled* luxury apartments will make you feel right at home with balconies and breathtaking views.Our pool and tennis court will keep you moving, while enjoying the comfort, quiet, and security of hi-rise apartment living.</p>
-                    <a href="#" class="btn-primary">DISCOVER NOW</a>
-                </div>
-            </div>
-        </div>
-    </section>    
-
+   
 
 
     <!-- FEATURES-->
