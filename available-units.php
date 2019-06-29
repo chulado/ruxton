@@ -85,8 +85,8 @@
             </div>    
             <div class="col-lg-12 bajada">
                 <h4 class="txt-white">8415 Bellona Lane, Towson, MD 21204</h4>
-                <p class="large txt-blanco">1-3 Beds &middot; 1-2 Baths &middot; 700-1235 sq. ft.<br>
-                <span class="attention">12 units currently available</span></p>
+                <p class="large txt-blanco">1 to 3 bdrm &middot; 1 to 2 bth &middot; 700-1235 sq. ft.
+                </p>
                 <a href="#" class="btn-primary cta"><i class="fas fa-mobile-alt"></i> (443) 470-8571</a>
                 <a href="#" class="btn-primary cta"><i class="fas fa-poo"></i> Request Tour</a>
             </div>    
@@ -98,46 +98,149 @@
     <section>
         <div class="container">
             <div class="row">
-<div class="col-lg-12">
-<h2 class="txt-blue">Floor Plans</h2>
-
+<div class="col-md-12">
+<h2 class="txt-blue">Units Currently Available</h2>
 <br>
 <p class="larger">1 Bedroom</p>
 <br><br>
 </div>
 
-<div class="col-md-2">
+<div class="col-md-2 col-sm-2">
 <img class="thumb" src="img/1-bedroom.png" alt="1 bedroom apartment floorplan">
 </div> 
 
-<div class="col-md-2">
-<p class="large">Available: <br>7/15/19
+<div class="col-md-2 col-sm-2">
+<p class="large">Available: 7/15/19
 </p>
 </div> 
 
-<div class="col-md-2">
+<div class="col-md-2 col-sm-2">
 <p class="large">1 bed / 1 bath
 </p>
 </div>
 
-<div class="col-md-2">
+<div class="col-md-2 col-sm-2">
 <p class="large">700-1135 sq. ft.
 </p>
 </div> 
 
-<div class="col-md-2">
-<p class="large">$1,580
+<div class="col-md-2 col-sm-2">
+<p class="large">$1,370+/mo
 </p>
 </div>
 
-<div class="col-md-2">
+<div class="col-md-2 col-sm-2">
+<p class="large"><a href="">Schedule tour</a>
+</p>
+</div>  
+<!-- ROW 2 -->
+<div class="col-md-12 show-border">
+<br>
+<p class="larger">2 Bedrooms</p>
+<br><br>
+</div> 
+
+<div class="col-md-2 col-sm-2">
+<img class="thumb" src="img/2-bedrooms.png" alt="2 bedroom apartment floorplan">
+</div> 
+
+<div class="col-md-2 col-sm-2">
+<p class="large">Available: 7/15/19
+</p>
+</div> 
+
+<div class="col-md-2 col-sm-2">
+<p class="large">2 beds / 1 bath
+</p>
+</div>
+
+<div class="col-md-2 col-sm-2">
+<p class="large">1030-1235 sq. ft.
+</p>
+</div> 
+
+<div class="col-md-2 col-sm-2">
+<p class="large">$1,520+/mo
+</p>
+</div>
+
+<div class="col-md-2 col-sm-2">
+<p class="large"><a href="">Schedule tour</a>
+</p>
+</div>
+
+<div class="col-md-12 h-rule">
+<hr>
+</div>
+
+<!-- Row 3 -->
+
+<div class="col-md-2 col-sm-2">
+<img class="thumb" src="img/2-bedrooms-2-baths.png" alt="2 bedroom 2 bath apartment floorplan">
+</div> 
+
+<div class="col-md-2 col-sm-2">
+<p class="large">Available: 7/15/19
+</p>
+</div> 
+
+<div class="col-md-2 col-sm-2">
+<p class="large">2 beds / 2 baths
+</p>
+</div>
+
+<div class="col-md-2 col-sm-2">
+<p class="large">1095-1110 sq. ft.
+</p>
+</div> 
+
+<div class="col-md-2 col-sm-2">
+<p class="large">$1,630+/mo
+</p>
+</div>
+
+<div class="col-md-2 col-sm-2">
 <p class="large"><a href="">Schedule tour</a>
 </p>
 </div>  
 
- 
+<!-- ROW 4 -->
+<div class="col-md-12 show-border">
+<br>
+<p class="larger">3 Bedrooms</p>
+<br><br>
+</div> 
 
-</div>               
+<div class="col-md-2 col-sm-2">
+<img class="thumb" src="img/3-bedrooms-2-baths.png" alt="3 bedroom 2 bath apartment floorplan">
+</div> 
+
+<div class="col-md-2 col-sm-2">
+<p class="large">Available: 7/15/19
+</p>
+</div> 
+
+<div class="col-md-2 col-sm-2">
+<p class="large">3 beds / 2 baths
+</p>
+</div>
+
+<div class="col-md-2 col-sm-2">
+<p class="large">1135 sq. ft.
+</p>
+</div> 
+
+<div class="col-md-2 col-sm-2">
+<p class="large">$1,925+/mo
+</p>
+</div>
+
+<div class="col-md-2 col-sm-2">
+<p class="large"><a href="">Schedule tour</a>
+</p>
+</div>  
+
+
             </div>
             
                 
@@ -150,7 +253,7 @@
 
 
     <!-- FEATURES-->
-    <section id="features">
+<section id="features" class="add-margin-features">
         <div class="container">
             <div class="row text-center">
                 <div class="col-lg-12">
