@@ -255,7 +255,7 @@ a {
 }
 a:hover {
 	text-decoration:none;
-    color: #000;
+    color: #132561;
 }
 button, html input[type=button], input[type=reset], input[type=submit] {
 	-webkit-appearance: button;
@@ -381,6 +381,18 @@ a.link{
 }
 
 
+/*	INFO  */
+.info {
+	float: right;
+	margin: 35px 130px 0 0;
+	color: #424242;
+}
+
+@media(max-width:900px) {
+	.info {
+		display: none;
+	}
+}
 
 
 /*	HEADER  */
