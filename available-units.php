@@ -43,7 +43,7 @@
 
 
     <!-- HEADER -->
-    <div class="nav-white">
+    <div class="nav-white-interior">
         <a href="index.html"><img src="img/logo.svg" class="logo" alt="Ruxton Towers"></a>
     </div>    
     <header role="banner">        
@@ -82,8 +82,8 @@
         <div class="container">
             <div class="col-lg-12 bajada">
                 <h1 class="txt-white">Ruxton Towers</h1>
-            </div>    
-            <div class="col-lg-12 bajada">
+                <h2 class="txt-blue">Current Availabilty</h2>
+            
                 <h4 class="txt-white">8415 Bellona Lane, Towson, MD 21204</h4>
                 <p class="large txt-blanco">1 to 3 bdrm &middot; 1 to 2 bth &middot; 700-1235 sq. ft.
                 </p>
@@ -106,8 +106,29 @@
 </div>
 
 <div class="col-md-2 col-sm-2">
-<img class="thumb" src="img/1-bedroom.png" alt="1 bedroom apartment floorplan">
-</div> 
+<a href="#modal"data-toggle="modal" data-target="#flipFlop"><img class="thumb" src="img/1-bedroom.png" alt="1 bedroom apartment floorplan"></a>
+</div>
+
+
+<!-- The modal -->
+<div class="modal fade" id="flipFlop" tabindex="-1" role="dialog" aria-labelledby="modalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">&times;</span>
+</button>
+<h4 class="modal-title" id="modalLabel">Modal Title</h4>
+</div>
+<div class="modal-body">
+Modal content...
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
 
 <div class="col-md-2 col-sm-2">
 <p class="large">Available: 7/15/19
@@ -343,7 +364,23 @@
         </footer>
  
   </main>
-    
+  <div class="modal fade" id="mapModal" tabindex="-1" role="dialog" aria-labelledby="header">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header custom-modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="header">Current Pet Care Service Area</h4>
+                    <p id="origin" class="origin"></p>
+                </div>
+                <div class="modal-body form-inline col-md-12">
+                    <div id="map"></div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn modal-btn" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>   
 
 
     <!-- jQuery -->
