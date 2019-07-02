@@ -580,6 +580,9 @@ a.link{
 	line-height: 20px;
 	letter-spacing: 0.25px;
 }
+.add-margin-features {
+	margin-top: 100px; 
+}
 .ico-features{
 	margin: 5px auto 20px auto;
 	width: 140px;
@@ -758,8 +761,15 @@ body {
     margin-right: 3px;
 }
 .thumb {
-	max-width: 75px;
+	max-width: 100px;
 	margin-top: -28px;
+}
+.show-border {
+	border-top: 5px solid #132561;
+	margin: 15px 0 0 0;
+}
+.h-rule {
+	margin: 0 0 75px 0;
 }
 
 
